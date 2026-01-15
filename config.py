@@ -1,0 +1,2 @@
+SPREADSHEET_ID = "12VdtMD0k5Ji9ETYuFFhRpHoUQbli_Kj7b6V5ycsipvs"
+SHEET_NAME = "Sheet1"
