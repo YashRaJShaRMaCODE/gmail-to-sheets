@@ -52,30 +52,36 @@ Google Sheets
 
 ## 📂 Project Structure
 gmail-to-sheets/
+
 ├── src/
 │ ├── gmail_service.py
 │ ├── sheets_service.py
 │ ├── email_parser.py
 │ ├── state_manager.py
 │ └── main.py
+
 │
 ├── credentials/
-│ └── credentials.json (NOT committed)
+│ └── credentials.json
 │
+
 ├── proof/
 │ ├── inbox.png
 │ ├── sheet.png
 │ └── oauth.png
-│
+
 ├── config.py
+
 ├── requirements.txt
+
 ├── .gitignore
+
 └── README.md
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the Repository
-```bash
+1️⃣ Clone the Repository
+
 git clone <YOUR_REPOSITORY_LINK>
 cd gmail-to-sheets
 
